@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import PropTypes from 'prop-types';
 
 const Useritem = ({ user: { login, avatar_url, html_url } }) => {
